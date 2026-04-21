@@ -18,7 +18,7 @@ def resource_path(relative_path):
 class SistemaExpedicaoMaster:
     def __init__(self, root):
         self.root = root
-        self.root.title("BURDOG - Gestão de Fluxo de Expedição")
+        self.root.title("Gestão de Fluxo de Expedição")
         self.root.geometry("1350x850")
         
         try:
