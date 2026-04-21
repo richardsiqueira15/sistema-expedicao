@@ -120,19 +120,11 @@ Facilitando a organização e rastreamento na expedição.
 
 ## 📷 Demonstração
 
-> ⚠️ Adicione imagens reais do sistema para melhor visualização:
-
-- Tela de cadastro de pedidos  
-- Tela de separação  
-- Tela de conferência  
-- Tela de pedidos prontos  
-
-Exemplo:
-
-```
-![Tela do sistema](./img/tela.png)
-
-```
+<p align="center">
+  <img src="./img/tela.png" alt="Tela de Cadastro" width="500">
+  <img src="./img/pendente.png" alt="Tela de Pendentes" width="500">
+  <img src="./img/pesquisa.png" alt="Tela de Pesquisas" width="500">
+</p>
 
 ## ▶️ Como Executar o Projeto
 
